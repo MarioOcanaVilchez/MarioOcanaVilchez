@@ -71,7 +71,7 @@ Me apasiona construir software con arquitecturas limpias (patrones **DAO**, **MV
       </td>
       <td align="center">
         <br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="42" height="42" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42" height="42" alt="Firebase" title="Firebase" />&nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="42" height="42" alt="OracleDB" title="OracleDB" />&nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-plain.svg" width="42" height="42" alt="Neo4j" title="Neo4j" />
