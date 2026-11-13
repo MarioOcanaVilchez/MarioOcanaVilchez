@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=200&section=header&text=Mario%20Oca%C3%B1a%20V%C3%ADlchez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Full-Stack%20%26%20Multiplataforma&descAlignY=58&descSize=18" width="100%" alt="Mario Ocaña Vílchez Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=200&section=header&text=Mario%20Oca%C3%B1a%20V%C3%ADlchez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Full-Stack%20y%20Multiplataforma&descAlignY=58&descSize=18" width="100%" alt="Mario Ocaña Vílchez Banner" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/Estado-Disponible%20para%20oportunidades%20como%20Desarrollador%20Junior-10b981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Estado Disponible" />
