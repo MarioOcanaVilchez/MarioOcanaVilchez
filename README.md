@@ -7,7 +7,7 @@
   </p>
 
   <p align="center">
-    <a href="https://marioocanavilchez.github.io/webPresentacion/">
+    <a href="https://mario-ocana-vilchez-web-presentacion.netlify.app">
       <img src="https://img.shields.io/badge/🌐%20Ver%20Web%20Porfolio-06b6d4?style=for-the-badge&logoColor=white" alt="Web Porfolio" />
     </a>
     <a href="mailto:marioocana1107@gmail.com">
@@ -29,7 +29,7 @@
 Me apasiona construir software con arquitecturas limpias (patrones **DAO**, **MVC**, **Singleton**), optimizar consultas y bases de datos relacionales/NoSQL e integrar soluciones modernas como **Inteligencia Artificial local (LLMs & RAG)** y documentación interactiva con **OpenAPI / Swagger**.
 
 - 🎯 **Objetivo actual:** Incorporarme como **Desarrollador Junior (Full-Stack / Backend / Multiplataforma)** donde aportar valor desde el primer día y seguir creciendo en equipo.
-- 🌐 **Porfolio Web Interactivo:** [marioocanavilchez.github.io/webPresentacion](https://marioocanavilchez.github.io/webPresentacion/)
+- 🌐 **Porfolio Web Interactivo:** [mario-ocana-vilchez-web-presentacion.netlify.app](https://mario-ocana-vilchez-web-presentacion.netlify.app)
 - 📫 **Contacto directo:** [marioocana1107@gmail.com](mailto:marioocana1107@gmail.com)
 
 ---
@@ -155,11 +155,11 @@ Me apasiona construir software con arquitecturas limpias (patrones **DAO**, **MV
 
 ---
 
-## 📊 Estadísticas en GitHub
+## 📊 Estadísticas y Lenguajes Principales
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MarioOcanaVilchez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioOcanaVilchez&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img width="49%" src="./assets/stats.svg" alt="Resumen Técnico" />
+  <img width="49%" src="./assets/top-langs.svg" alt="Lenguajes más usados" />
 </div>
 
 ---
